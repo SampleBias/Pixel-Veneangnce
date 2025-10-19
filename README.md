@@ -1,6 +1,6 @@
 # Pixel Vengeance
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)]([cloudflarebutton])
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)]([![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SampleBias/Pixel-Veneangnce))
 
 A 2-player retro arcade game combining classic Pac-Man gameplay with competitive shooting mechanics, ricocheting projectiles, and ghost-blasting action.
 
@@ -79,7 +79,7 @@ This command will build the project and deploy it using the Wrangler CLI.
 
 Alternatively, you can deploy directly from your GitHub repository by clicking the button below.
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)]([cloudflarebutton])
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)]([![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SampleBias/Pixel-Veneangnce))
 
 ## License
 
